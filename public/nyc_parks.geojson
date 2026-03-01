@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"signname": "Washington Square Park", "typecategory": "Park", "us_intervene": "High"}, "geometry": {"type": "Polygon", "coordinates": [[[-73.9988, 40.7317], [-73.9965, 40.7324], [-73.9953, 40.7302], [-73.9976, 40.7295], [-73.9988, 40.7317]]]}}]}
